@@ -1,2 +1,2 @@
-# my_python
-Repository for my python stuff
+# Learning_code
+This is my learning code while learning Python language.
