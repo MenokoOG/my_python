@@ -1,2 +1,2 @@
-# my_python
-Repository for my python stuff
+# python_bootcamp
+Repository for my python pyhon_bootcamp projects
